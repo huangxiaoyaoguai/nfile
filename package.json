@@ -1,0 +1,21 @@
+{
+  "name": "nfile",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "bin":{
+    "nfile":"index.js"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "ershaoye",
+    "email": "921365631@qq.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^4.0.0"
+  }
+}
